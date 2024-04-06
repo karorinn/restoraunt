@@ -8,7 +8,7 @@ function Header(){
                     <Link to="/" className="brand-logo">SpaReact</Link>
                     
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
-                        <li><a href="#">Repository</a></li>
+                        <li><a href="https://github.com/karorinn/restoraunt">Repository</a></li>
                         <li><Link to="/contact">Contact</Link></li>
                         <li><Link to="/about">About</Link></li>
                     </ul>
